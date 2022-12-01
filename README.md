@@ -4,7 +4,7 @@
       The goal is to create interactive dashboard and implement automation.  
 - 👀 I’m interested in IOT , JS , Linux
 - 🌱 I’m currently learning Node.js and Python
-- 💞️ I’m looking to collaborate on Iot projects based on ESP especially Wemos
+- 💞️ I’m looking to collaborate on IOT projects based on ESP especially Wemos
      
 - 📫 How to reach me ...
      https://www.tiktok.com/@api.panda
